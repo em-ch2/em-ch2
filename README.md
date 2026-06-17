@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emily!</h1>
 <h3 align="center">A passionate CS major and DAS minor at UF 😸</h3>
 
-- 🔭 I’m currently working on ...many design team projects 😺
+- 🔭 I’m currently working on creative tech like a personal portfolio and games! 😺
 
 - 🌱 I’m currently learning ...Frontend/Web Development!
 
