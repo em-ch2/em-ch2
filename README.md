@@ -49,6 +49,6 @@
 
 <h4 align="left">Additional Technologies</h4>
 <p align="left">
-  LlamaIndex · ChromaDB · Qwen · Model Context Protocol (MCP) ·
+  LlamaIndex · ChromaDB · Model Context Protocol (MCP) ·
   Retrieval-Augmented Generation (RAG) · Proxmox VE · TrueNAS · Pygame · Unity · Godot · MediaPipe
 </p>
